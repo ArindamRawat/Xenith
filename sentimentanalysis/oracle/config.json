@@ -1,0 +1,14 @@
+{
+  "contract_address": "0x473558faf73c5911531b6514abd4aeb12f6ebc3846a845a9d752fd6884ed65ec",
+  "update_interval": 300,
+  "data_sources": {
+    "reddit_enabled": true,
+    "news_enabled": true,
+    "fear_greed_enabled": true
+  },
+  "sentiment_weights": {
+    "reddit": 0.4,
+    "news": 0.3,
+    "fear_greed": 0.3
+  }
+}

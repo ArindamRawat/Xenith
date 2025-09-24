@@ -1,0 +1,19 @@
+[package]
+name = "sentiment_trading"
+version = "1.0.0"
+authors = []
+
+[addresses]
+my_first_contract = "0x473558faf73c5911531b6514abd4aeb12f6ebc3846a845a9d752fd6884ed65ec"
+sentiment_trading = "0x473558faf73c5911531b6514abd4aeb12f6ebc3846a845a9d752fd6884ed65ec"
+
+[dev-addresses]
+my_first_contract = "0x473558faf73c5911531b6514abd4aeb12f6ebc3846a845a9d752fd6884ed65ec"
+sentiment_trading = "0x473558faf73c5911531b6514abd4aeb12f6ebc3846a845a9d752fd6884ed65ec"
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
