@@ -6,6 +6,12 @@
 [![Aptos](https://img.shields.io/badge/Aptos-Blockchain-purple.svg)](https://aptoslabs.com/)
 [![Python](https://img.shields.io/badge/Python-3.13-green.svg)](https://python.org/)
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([videolink](https://youtu.be/2lH_G3L0doA))
+
+
+
 ## 🌟 Vision & Mission
 
 **Xenith** (a twist on "Zenith") is a revolutionary sentiment-based prediction market that transforms social media emotions into tradeable signals. By analyzing real-time social sentiment from Reddit, crypto news, and market fear/greed indices, Xenith creates a dynamic betting ecosystem where users can profit from predicting crowd psychology.
@@ -368,4 +374,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ by the Xenith Team**
 
 *"Where sentiment meets strategy, and emotions become opportunities."*
+
 
