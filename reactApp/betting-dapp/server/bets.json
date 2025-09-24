@@ -1,0 +1,56 @@
+{
+  "bets": [
+    {
+      "id": "0xabc-1710000000000",
+      "address": "0xabc111222333444555666777888999aaaabbbbccccddddeeefff0001112223",
+      "direction": 1,
+      "amountOctas": "250000000",
+      "entrySentiment": 58,
+      "createdAt": 1710000000000,
+      "txHash": "0xhash1",
+      "status": "active"
+    },
+    {
+      "id": "0xdef-1710001000000",
+      "address": "0xdef111222333444555666777888999aaaabbbbccccddddeeefff0001112223",
+      "direction": 0,
+      "amountOctas": "100000000",
+      "entrySentiment": 62,
+      "createdAt": 1710001000000,
+      "txHash": "0xhash2",
+      "status": "resolved",
+      "resolvedAt": 1710004600000
+    },
+    {
+      "id": "0xabc-1710002000000",
+      "address": "0xabc111222333444555666777888999aaaabbbbccccddddeeefff0001112223",
+      "direction": 1,
+      "amountOctas": "750000000",
+      "entrySentiment": 45,
+      "createdAt": 1710002000000,
+      "txHash": "0xhash3",
+      "status": "resolved",
+      "resolvedAt": 1710005600000
+    },
+    {
+      "id": "0x999-1710003000000",
+      "address": "0x999111222333444555666777888999aaaabbbbccccddddeeefff0001112223",
+      "direction": 0,
+      "amountOctas": "50000000",
+      "entrySentiment": 35,
+      "createdAt": 1710003000000,
+      "txHash": "0xhash4",
+      "status": "active"
+    },
+    {
+      "id": "0xdff83f7b9d3662660559b93fcbdd0b5f430ac749fc48eeb6509f596198751442-1758749682895",
+      "address": "0xdff83f7b9d3662660559b93fcbdd0b5f430ac749fc48eeb6509f596198751442",
+      "direction": 1,
+      "amountOctas": "10000000",
+      "entrySentiment": 0,
+      "createdAt": 1758749682895,
+      "txHash": "0xfefeee985d91f7e57ed67e1d27131c43dfb7bc3973e3ecbedfaaec3b8554dfb3",
+      "status": "active"
+    }
+  ]
+}
