@@ -10,6 +10,7 @@
 [![Watch the demo](https://img.youtube.com/vi/2lH_G3L0doA/0.jpg)](https://youtu.be/2lH_G3L0doA)
 
 
+Module AT : [0x473558faf73c5911531b6514abd4aeb12f6ebc3846a845a9d752fd6884ed65ec](https://explorer.aptoslabs.com/account/0x473558faf73c5911531b6514abd4aeb12f6ebc3846a845a9d752fd6884ed65ec/transactions?network=testnet)
 
 
 ## 🌟 Vision & Mission
@@ -214,10 +215,7 @@ python sentiment_oracle.py
 #### Frontend Development
 ```bash
 npm run dev          # Start development server
-npm run build        # Build for production
 npm run server       # Start API server
-npm run lint         # Run ESLint
-npm run preview      # Preview production build
 ```
 
 #### Oracle Management
@@ -374,6 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ by the Xenith Team**
 
 *"Where sentiment meets strategy, and emotions become opportunities."*
+
 
 
 
