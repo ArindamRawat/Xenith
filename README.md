@@ -8,7 +8,7 @@
 
 ## Demo
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([videolink](https://youtu.be/2lH_G3L0doA))
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/2lH_G3L0doA)
 
 
 
