@@ -7,8 +7,8 @@
 [![Python](https://img.shields.io/badge/Python-3.13-green.svg)](https://python.org/)
 
 ## Demo
+[![Watch the demo](https://img.youtube.com/vi/2lH_G3L0doA/0.jpg)](https://youtu.be/2lH_G3L0doA)
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/2lH_G3L0doA)
 
 
 
@@ -374,5 +374,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Built with ❤️ by the Xenith Team**
 
 *"Where sentiment meets strategy, and emotions become opportunities."*
+
 
 
